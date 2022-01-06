@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T07:42:19.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LZ7D73nmIR8A0Y0cD29y" version="16.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-06T07:47:18.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DXlGWXteiScajwrU7OE_" version="16.1.0" type="github" pages="5">
   <diagram id="N_k3zZRlz12YxnI6ztA1" name="Inscription/Connexion">
     <mxGraphModel dx="1422" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -102,11 +102,11 @@
         <mxCell id="llBKfEtuTKUpMHoGcyUw-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Utilisateur&lt;br&gt;(élève &amp;amp; bénévole)&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="vnXkW_ZIGlNbadKXdgFG-1">
           <mxGeometry x="131" y="367.5" width="61" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="llBKfEtuTKUpMHoGcyUw-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;avoir une alerte du nombre de messages non lus&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vnXkW_ZIGlNbadKXdgFG-1">
-          <mxGeometry x="394" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="llBKfEtuTKUpMHoGcyUw-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;a une alerte du nombre de messages non lus&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vnXkW_ZIGlNbadKXdgFG-1">
+          <mxGeometry x="365" y="310" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="llBKfEtuTKUpMHoGcyUw-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;connaître mes différentes tâches à faire&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vnXkW_ZIGlNbadKXdgFG-1">
-          <mxGeometry x="394" y="390.5" width="120" height="60" as="geometry" />
+        <mxCell id="llBKfEtuTKUpMHoGcyUw-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;voit ses différentes tâches à faire&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vnXkW_ZIGlNbadKXdgFG-1">
+          <mxGeometry x="365" y="390.5" width="177" height="60" as="geometry" />
         </mxCell>
         <mxCell id="llBKfEtuTKUpMHoGcyUw-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vnXkW_ZIGlNbadKXdgFG-1" source="llBKfEtuTKUpMHoGcyUw-1" target="llBKfEtuTKUpMHoGcyUw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,7 +120,7 @@
             <mxPoint x="322" y="427" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="llBKfEtuTKUpMHoGcyUw-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;connaître mes prochains événements prévus&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vnXkW_ZIGlNbadKXdgFG-1">
+        <mxCell id="llBKfEtuTKUpMHoGcyUw-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;voit ses prochains événements prévus&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vnXkW_ZIGlNbadKXdgFG-1">
           <mxGeometry x="365" y="472" width="178" height="65" as="geometry" />
         </mxCell>
         <mxCell id="llBKfEtuTKUpMHoGcyUw-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vnXkW_ZIGlNbadKXdgFG-1" source="llBKfEtuTKUpMHoGcyUw-1" target="llBKfEtuTKUpMHoGcyUw-6">
@@ -176,10 +176,10 @@
         <mxCell id="8bn4MULzIolXYwZXucTa-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Utilisateur&lt;br&gt;(élève &amp;amp; bénévole)&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="08TveLE3wsxcT1mYKlpu-1">
           <mxGeometry x="133" y="318.5" width="61" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="8bn4MULzIolXYwZXucTa-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;voir mes événements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="08TveLE3wsxcT1mYKlpu-1">
-          <mxGeometry x="396" y="261" width="120" height="60" as="geometry" />
+        <mxCell id="8bn4MULzIolXYwZXucTa-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;voit tous ses événements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="08TveLE3wsxcT1mYKlpu-1">
+          <mxGeometry x="367" y="261" width="174" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8bn4MULzIolXYwZXucTa-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;remplir un formulaire pour créer un nouvel événement&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="08TveLE3wsxcT1mYKlpu-1">
+        <mxCell id="8bn4MULzIolXYwZXucTa-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;remplit un formulaire pour créer un nouvel événement&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="08TveLE3wsxcT1mYKlpu-1">
           <mxGeometry x="367" y="341.5" width="177" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8bn4MULzIolXYwZXucTa-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="08TveLE3wsxcT1mYKlpu-1" source="8bn4MULzIolXYwZXucTa-1" target="8bn4MULzIolXYwZXucTa-2">
@@ -194,7 +194,7 @@
             <mxPoint x="324" y="378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8bn4MULzIolXYwZXucTa-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;voir le calendrier mois par mois&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="08TveLE3wsxcT1mYKlpu-1">
+        <mxCell id="8bn4MULzIolXYwZXucTa-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;voit le calendrier mois par mois&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="08TveLE3wsxcT1mYKlpu-1">
           <mxGeometry x="367" y="423" width="178" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8bn4MULzIolXYwZXucTa-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="08TveLE3wsxcT1mYKlpu-1" source="8bn4MULzIolXYwZXucTa-1" target="8bn4MULzIolXYwZXucTa-6">
@@ -250,8 +250,8 @@
         <mxCell id="iLuypzrg3TyXIozPUnfI-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Utilisateur&lt;br&gt;(élève &amp;amp; bénévole)&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="ECjhi9dBhwynrOFmbeBy-1">
           <mxGeometry x="133" y="332.5" width="61" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="iLuypzrg3TyXIozPUnfI-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Voir mes différentes tâches&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ECjhi9dBhwynrOFmbeBy-1">
-          <mxGeometry x="396" y="275" width="120" height="60" as="geometry" />
+        <mxCell id="iLuypzrg3TyXIozPUnfI-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Voit ses différentes tâches&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ECjhi9dBhwynrOFmbeBy-1">
+          <mxGeometry x="373" y="275" width="168" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iLuypzrg3TyXIozPUnfI-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ECjhi9dBhwynrOFmbeBy-1" source="iLuypzrg3TyXIozPUnfI-18" target="iLuypzrg3TyXIozPUnfI-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -289,7 +289,7 @@
             <mxPoint x="367" y="386.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhBjS-ltnsuExuZ7499X-0" value="&lt;font style=&quot;font-size: 15px&quot;&gt;remplir un formulaire pour créer une nouvelle tâche&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ECjhi9dBhwynrOFmbeBy-1">
+        <mxCell id="zhBjS-ltnsuExuZ7499X-0" value="&lt;font style=&quot;font-size: 15px&quot;&gt;remplit un formulaire pour créer une nouvelle tâche&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ECjhi9dBhwynrOFmbeBy-1">
           <mxGeometry x="367.5" y="415.5" width="177" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -366,7 +366,7 @@
             <mxPoint x="795.9190000000001" y="397.9760000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRjVnsE5deUhHwla8H_z-14" value="peut et créer des conversations" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="0rSqqRQdfSesQRWWmN9H-1">
+        <mxCell id="PRjVnsE5deUhHwla8H_z-14" value="peut créer et supprimer des conversations" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="0rSqqRQdfSesQRWWmN9H-1">
           <mxGeometry x="367" y="508" width="178" height="59" as="geometry" />
         </mxCell>
         <mxCell id="PRjVnsE5deUhHwla8H_z-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;curved=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0rSqqRQdfSesQRWWmN9H-1" source="PRjVnsE5deUhHwla8H_z-1" target="PRjVnsE5deUhHwla8H_z-14">
